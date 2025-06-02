@@ -12,6 +12,7 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 
 ```
 Compréhension de base en informatique
+rien de trop technique
 ```
 
 ### Installation
